@@ -20,6 +20,6 @@ module.exports = palindrome;
 //     .split('')
 //     .reverse()
 //     .join('');
-//
+
 //   return str === reversed;
 // }
